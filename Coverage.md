@@ -1,0 +1,1 @@
+Sonar Cloud is used for learning the coverage of our code.
